@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">VibWatch</string>
+
+	<string name="app_service">VibWatch service</string>
+	<string name="chkbox_autostart">Power-on start</string>
+
+	<string name="app_mode">Indication mode</string>
+	<string name="radbtn_always">Always</string>
+	<string name="radbtn_askme">Ask me</string>
+
+	<string name="app_settings">Vibration settings</string>
+	<string name="settings_order">Order</string>
+	<string name="radbtn_order1">H12->M10->M1</string>
+	<string name="radbtn_order2">M10->M1->H12</string>
+	<string name="radbtn_order3">M10->M1</string>
+	<string name="settings_length">Length (ms)</string>
+	<string name="settings_interval1">Interval1 (ms)</string>
+	<string name="settings_interval2">Interval2 (ms)</string>
+	
+	<string name="btn_time">What time is it now?</string>
+	<string name="btn_next">No, thanks</string>
+</resources>
